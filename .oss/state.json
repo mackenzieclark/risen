@@ -1,0 +1,45 @@
+{
+  "projectName": "Risen",
+  "createdAt": "2026-06-21T00:49:35Z",
+  "currentStep": "outline",
+  "context": {
+    "themes": ".oss/themes/themes.md",
+    "setting": ".oss/setting/world.md"
+  },
+  "creativeBrief": ".oss/creative-brief.md",
+  "outline": ".oss/game/outline.md",
+  "scenes": [],
+  "memory": [],
+  "branches": [
+    {
+      "name": "main",
+      "createdAt": "2026-06-21T00:49:35Z",
+      "parentBranch": null,
+      "forkPoint": null,
+      "choiceText": null,
+      "mergePoint": null,
+      "forkMode": null
+    }
+  ],
+  "activeBranch": "main",
+  "genre": "Horror-comedy / urban-fantasy parody (World of Darkness send-up)",
+  "tone": "Deadpan absurdist parody -- cosmic power and ancient reverence played completely straight, aimed at a bewildered ordinary person",
+  "personaFriction": "high",
+  "personaPending": null,
+  "preferenceProfilePath": null,
+  "preferenceProfileEntries": null,
+  "format": "twine",
+  "game": {
+    "twinePath": null,
+    "variablesPath": ".oss/game/variables.json",
+    "designPath": ".oss/game/design.md",
+    "outlinePath": ".oss/game/outline.md",
+    "compiledDir": ".oss/game/compiled/",
+    "scenesDir": ".oss/game/scenes/",
+    "memoryDir": ".oss/game/memory/",
+    "pcPath": null,
+    "inheritancePath": null,
+    "analysisPath": null,
+    "styleSkillPath": null
+  }
+}
