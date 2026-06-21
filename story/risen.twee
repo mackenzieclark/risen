@@ -1,0 +1,53 @@
+:: StoryTitle
+Risen
+
+:: StoryData
+{
+  "ifid": "",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+:: Start
+You are having, by any reasonable measure, the worst night of your life.
+
+You do not yet know that it is also the last night of your life, or that this is, somehow, the good news.
+
+A stranger sits down across from you. They smell like cold rain and old money. They look at you as though they already know exactly what you need to hear.
+
+"I'm going to make you an offer," they say. "And I think — I really do think — you're going to say yes."
+
+[[Choose who you are->Backgrounds]]
+
+:: Backgrounds
+//(Stub: the player picks an archetypal wish-fulfillment background here. Each one is a wound the stranger already knows how to press.)//
+
+* [[The Heartbroken Sad-Sack->Pitch: Love]]
+* [[The Bullied Outcast->Pitch: Power]]
+* [[The Terminally Ill->Pitch: Forever]]
+
+:: Pitch: Love
+//(Stub.)// The stranger promises eternal, unconditional, never-fading love. You have wanted exactly this for so long that you forgot it was a thing people could want.
+
+[[Say yes->The Bite]]
+
+:: Pitch: Power
+//(Stub.)// The stranger offers you the power to be feared, adored, and impossible to ignore. Every face that ever looked through you — they will look *up*.
+
+[[Say yes->The Bite]]
+
+:: Pitch: Forever
+//(Stub.)// The stranger offers you the one thing the doctors couldn't: more time. All of it. Every night there will ever be.
+
+[[Say yes->The Bite]]
+
+:: The Bite
+You say yes.
+
+You always say yes. The only question was ever *why*.
+
+//(Stub: end of Chapter One. Next, you wake up absurdly, casually omnipotent — and an ancient society of equally omnipotent predators is already quite certain you are the one the prophecy promised. You have been a vampire for roughly four minutes. This seems like a lot.)//
+
+''[ TO BE CONTINUED ]''
